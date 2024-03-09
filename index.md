@@ -7,7 +7,7 @@ permalink: /
 ---
 
 # 关于Story Protocol
-
+---
 ![Story Protocol](/assets/images/sp_main.png)
 
 ---
