@@ -1,8 +1,16 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Story Protocol 文档 (非官方)
+description: Story Protocol 中文文档（非官方）
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://andybowu.github.io
+
+
+nav_external_links:
+  - title: Story Protocol 官方文档
+    url: https://docs.storyprotocol.xyz/docs/what-is-story-protocol
+    hide_icon: false
+    opens_new_tab: true
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Story Protocol 官方文档": "https://docs.storyprotocol.xyz/docs/what-is-story-protocol"
+
